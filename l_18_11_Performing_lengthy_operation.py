@@ -1,5 +1,6 @@
 from PyQt6 import QtWidgets
 import sys, time
+"""Программа запуск и 10 секунд спать"""
 
 def on_clicked():
     time.sleep(10)  # Засыпает на 10 секунд
